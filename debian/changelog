@@ -1,0 +1,42 @@
+metlibs-tseries-pets2 (6.0.4-1) unstable; urgency=low
+
+  * updated DASHED and DASHDOTTED patterns
+
+ -- Alexander Bürger <alexander.buerger@met.no>  Mon, 22 Aug 2016 08:00:00 +0200
+
+metlibs-tseries-pets2 (6.0.3-1) unstable; urgency=low
+
+  * fixed missing fill style Audun C.)
+
+ -- Alexander Bürger <alexander.buerger@met.no>  Thu, 26 May 2016 08:00:00 +0200
+
+metlibs-tseries-pets2 (6.0.2-1) unstable; urgency=low
+
+  * bugfixes (Audun C.)
+
+ -- Alexander Bürger <alexander.buerger@met.no>  Tue, 03 May 2016 08:00:00 +0200
+
+metlibs-tseries-pets2 (6.0.1-1) unstable; urgency=low
+
+  * fix DOTTED line stipple
+
+ -- Alexander Bürger <alexander.buerger@met.no>  Tue, 03 May 2016 08:00:00 +0200
+
+metlibs-tseries-pets2 (6.0.0-1) unstable; urgency=low
+
+  * use Qt / QPainter instead of OpenGL and glp
+
+ -- Alexander Bürger <alexander.buerger@met.no>  Thu, 21 Apr 2016 08:00:00 +0200
+
+metlibs-tseries-pets2 (5.1.0-1) unstable; urgency=low
+
+  * removed puTools/miString
+  * update dependencies in debian/control
+
+ -- Alexander Bürger <alexander.buerger@met.no>  Tue, 05 Apr 2016 14:00:00 +0200
+
+metlibs-tseries-pets2 (5.0.0-1) unstable; urgency=low
+
+  * Split from all-in-one metlibs
+
+ -- Alexander Carl Friedrich Bürger <alexander.buerger@met.no>  Thu, 06 Feb 2014 09:54:18 +0100
